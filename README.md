@@ -1,6 +1,6 @@
 Full Stack Software Engineer
 
-💻 I'm currently working at Classic Informatics Pvt Ltd 
+💻 I'm currently working at Freecharge Technologies Pvt Ltd 
 
 A bit about me:
 
